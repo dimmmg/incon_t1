@@ -1,0 +1,6 @@
+{
+  "app_name": "Quote Generator CLI",
+  "version": "1.1.0",
+  "default_category": "dev",
+  "show_author": true
+}
